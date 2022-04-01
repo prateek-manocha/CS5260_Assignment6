@@ -1,0 +1,7 @@
+colossalai
+torch
+torchvision
+tensorflow
+tensorboard
+tqdm
+matplotlib
